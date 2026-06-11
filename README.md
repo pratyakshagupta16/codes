@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/pratyakshagupta16/codes/tree/master/0046-permutations) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pratyakshagupta16/codes/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pratyakshagupta16/codes/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pratyakshagupta16/codes/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pratyakshagupta16/codes/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
