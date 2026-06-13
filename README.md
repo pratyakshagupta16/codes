@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pratyakshagupta16/codes/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/pratyakshagupta16/codes/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pratyakshagupta16/codes/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/pratyakshagupta16/codes/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratyakshagupta16/codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0283-move-zeroes](https://github.com/pratyakshagupta16/codes/tree/master/0283-move-zeroes) |
 ## Backtracking
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pratyakshagupta16/codes/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratyakshagupta16/codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Math
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pratyakshagupta16/codes/tree/master/0049-group-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pratyakshagupta16/codes/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
