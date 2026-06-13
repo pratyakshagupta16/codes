@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/pratyakshagupta16/codes/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/pratyakshagupta16/codes/tree/master/0048-rotate-image) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratyakshagupta16/codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0283-move-zeroes](https://github.com/pratyakshagupta16/codes/tree/master/0283-move-zeroes) |
 ## Backtracking
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratyakshagupta16/codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/pratyakshagupta16/codes/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/pratyakshagupta16/codes/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
