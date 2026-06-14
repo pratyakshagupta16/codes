@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pratyakshagupta16/codes/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pratyakshagupta16/codes/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratyakshagupta16/codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/pratyakshagupta16/codes/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/pratyakshagupta16/codes/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratyakshagupta16/codes/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/pratyakshagupta16/codes/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/pratyakshagupta16/codes/tree/master/0118-pascals-triangle) |
 ## Binary Search
 |  |
 | ------- |
