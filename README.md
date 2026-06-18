@@ -123,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pratyakshagupta16/codes/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [1890-the-latest-login-in-2020](https://github.com/pratyakshagupta16/codes/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
