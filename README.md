@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/pratyakshagupta16/codes/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/pratyakshagupta16/codes/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pratyakshagupta16/codes/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pratyakshagupta16/codes/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/pratyakshagupta16/codes/tree/master/0171-excel-sheet-column-number) |
+| [0342-power-of-four](https://github.com/pratyakshagupta16/codes/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pratyakshagupta16/codes/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/pratyakshagupta16/codes/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
