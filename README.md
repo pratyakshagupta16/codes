@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pratyakshagupta16/codes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/pratyakshagupta16/codes/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratyakshagupta16/codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1189-maximum-number-of-balloons](https://github.com/pratyakshagupta16/codes/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pratyakshagupta16/codes/tree/master/0049-group-anagrams) |
 | [0171-excel-sheet-column-number](https://github.com/pratyakshagupta16/codes/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/pratyakshagupta16/codes/tree/master/0344-reverse-string) |
+| [1189-maximum-number-of-balloons](https://github.com/pratyakshagupta16/codes/tree/master/1189-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1890-the-latest-login-in-2020](https://github.com/pratyakshagupta16/codes/tree/master/1890-the-latest-login-in-2020) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/pratyakshagupta16/codes/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
