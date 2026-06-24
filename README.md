@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pratyakshagupta16/codes/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/pratyakshagupta16/codes/tree/master/0283-move-zeroes) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/pratyakshagupta16/codes/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/pratyakshagupta16/codes/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pratyakshagupta16/codes/tree/master/0048-rotate-image) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/pratyakshagupta16/codes/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## String
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/pratyakshagupta16/codes/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
