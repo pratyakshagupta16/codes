@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/pratyakshagupta16/codes/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/pratyakshagupta16/codes/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/pratyakshagupta16/codes/tree/master/0283-move-zeroes) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Backtracking
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pratyakshagupta16/codes/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/pratyakshagupta16/codes/tree/master/0171-excel-sheet-column-number) |
 | [0342-power-of-four](https://github.com/pratyakshagupta16/codes/tree/master/0342-power-of-four) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pratyakshagupta16/codes/tree/master/0049-group-anagrams) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/pratyakshagupta16/codes/tree/master/1189-maximum-number-of-balloons) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
