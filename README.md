@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pratyakshagupta16/codes/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/pratyakshagupta16/codes/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/pratyakshagupta16/codes/tree/master/1732-find-the-highest-altitude) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pratyakshagupta16/codes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/pratyakshagupta16/codes/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Backtracking
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pratyakshagupta16/codes/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pratyakshagupta16/codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1189-maximum-number-of-balloons](https://github.com/pratyakshagupta16/codes/tree/master/1189-maximum-number-of-balloons) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/pratyakshagupta16/codes/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
