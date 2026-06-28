@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/pratyakshagupta16/codes/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/pratyakshagupta16/codes/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/pratyakshagupta16/codes/tree/master/0283-move-zeroes) |
+| [1732-find-the-highest-altitude](https://github.com/pratyakshagupta16/codes/tree/master/1732-find-the-highest-altitude) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/pratyakshagupta16/codes/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Backtracking
@@ -161,5 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/pratyakshagupta16/codes/tree/master/1732-find-the-highest-altitude) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/pratyakshagupta16/codes/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
