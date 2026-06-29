@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/pratyakshagupta16/codes/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/pratyakshagupta16/codes/tree/master/1207-unique-number-of-occurrences) |
 | [1732-find-the-highest-altitude](https://github.com/pratyakshagupta16/codes/tree/master/1732-find-the-highest-altitude) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratyakshagupta16/codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pratyakshagupta16/codes/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/pratyakshagupta16/codes/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/pratyakshagupta16/codes/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/pratyakshagupta16/codes/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/pratyakshagupta16/codes/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/pratyakshagupta16/codes/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratyakshagupta16/codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
