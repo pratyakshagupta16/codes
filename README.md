@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/pratyakshagupta16/codes/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/pratyakshagupta16/codes/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/pratyakshagupta16/codes/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pratyakshagupta16/codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1207-unique-number-of-occurrences](https://github.com/pratyakshagupta16/codes/tree/master/1207-unique-number-of-occurrences) |
 | [1732-find-the-highest-altitude](https://github.com/pratyakshagupta16/codes/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pratyakshagupta16/codes/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pratyakshagupta16/codes/tree/master/0069-sqrtx) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pratyakshagupta16/codes/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Memoization
 |  |
 | ------- |
